@@ -1,7 +1,7 @@
 # Cristina-esliceu
 Esto es un **texto en negrita** y *esto un texto*
 ## dos 
-A continuacion vamos a [apuntesfol](fol/VIDEOCURRICULUM_CRISTINA_RENGIFO.mov.crdownload)
+A continuacion vamos a [apuntesfol](fol/Apunts.md)
 ### tercer apartat 
 #### quatre
 ##### cinc 
