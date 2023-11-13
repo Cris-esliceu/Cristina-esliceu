@@ -2,9 +2,9 @@
 
 La capacitat dels processos per a intercanviar informació i cooperar és essencial en entorns informàtics on múltiples tasques han de realitzar-se de manera simultània i coordinada. La comunicació entre processos (IPC, per les seves sigles en anglès) es converteix en un component crític per a aconseguir aquesta col·laboració de manera efectiva. Diversos mecanismes faciliten la comunicació entre processos, permetent l'intercanvi de dades, senyals i coordinació.
 
-### *Pipes
+### Pipes
 
-Els *pipes, o canonades, són un dels mecanismes més simples per a la comunicació entre processos. Un *pipe estableix una connexió unidireccional entre dos processos, permetent que la sortida d'un procés es converteixi en l'entrada de l'altre. Això facilita la transferència de dades de manera eficient. Els *pipes són especialment útils en situacions on un procés genera dades que han de ser consumits per un altre de manera seqüencial.
+Els pipes, o canonades, són un dels mecanismes més simples per a la comunicació entre processos. Un *pipe estableix una connexió unidireccional entre dos processos, permetent que la sortida d'un procés es converteixi en l'entrada de l'altre. Això facilita la transferència de dades de manera eficient. Els *pipes són especialment útils en situacions on un procés genera dades que han de ser consumits per un altre de manera seqüencial.
 
 ### Cues de Missatges
 
@@ -18,8 +18,8 @@ La memòria compartida permet que diversos processos accedeixin a la mateixa reg
 
 Els senyals són esdeveniments asincrònics que un procés pot enviar a un altre per a notificar esdeveniments o sol·licitar unes certes accions. Aquest mecanisme és especialment útil per a la gestió d'esdeveniments i la coordinació entre processos.
 
-### *Sockets
+### Sockets
 
-Els *sockets permeten la comunicació entre processos en diferents sistemes o fins i tot a través d'una xarxa. Proporcionen una interfície estàndard per a la comunicació, la qual cosa facilita la interacció entre processos en màquines separades.
+Els sockets permeten la comunicació entre processos en diferents sistemes o fins i tot a través d'una xarxa. Proporcionen una interfície estàndard per a la comunicació, la qual cosa facilita la interacció entre processos en màquines separades.
 
 L'elecció del mecanisme de comunicació entre processos depèn de la naturalesa de la tasca i els requisits específics de l'aplicació. La comprensió d'aquests mecanismes és essencial per al disseny de sistemes robustos i eficients.
