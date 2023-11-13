@@ -1,0 +1,35 @@
+## Planificació de Processos
+
+La planificació de processos és un component essencial en la gestió de sistemes operatius que permet optimitzar l'ús dels recursos de la CPU i millorar el rendiment del sistema. Aquest procés implica la selecció i assignació de la CPU a diferents processos en el sistema, assegurant una execució eficient i equitativa. A continuació, explorarem els conceptes clau relacionats amb la planificació de processos.
+
+### Objectius de la Planificació de Processos
+
+1. **Maximització de la Utilització de la CPU:** L'objectiu principal és mantenir la CPU ocupada tant com sigui possible. L'eficiència s'aconsegueix en minimitzar el temps en què la CPU està inactiva.
+
+2. **Maximització del *Throughput:** Es busca maximitzar la quantitat de processos completats en una unitat de temps, millorant així la capacitat de processament del sistema.
+
+3. **Minimització del Temps d'Espera:** Es pretén reduir el temps que els processos passen en espera, ja sigui en la cua de llestos o bloquejats.
+
+4. **Minimització del Temps de Resposta:** Es busca minimitzar el temps que transcorre des de la presentació d'una sol·licitud fins a l'obtenció de la primera resposta.
+
+### Algorismes de Planificació
+
+#### *FCFS (*First-Menja, *First-*Served)
+
+Aquest algorisme assigna la CPU al primer procés que arriba a la cua de llestos. És simple i fàcil d'entendre, però pot generar problemes d'inanició per a processos que arriben després i han d'esperar que els processos inicials es completin.
+
+#### *SJF (*Shortest *Job *Next)
+
+En l'algorisme *SJF, la CPU s'assigna al procés amb el menor temps d'execució pròxim. Encara que pot minimitzar el temps d'espera, pot generar inanició si processos més curts continuen arribant.
+
+#### Round Robin
+
+Aquest algorisme assigna la CPU a cada procés en torns, de manera equitativa. Cada procés té un temps fix d'execució (quàntum) abans de passar al següent. Encara que evita la inanició, pot generar temps d'espera prolongats per a processos llargs.
+
+#### Prioritat
+
+En aquest enfocament, cada procés s'assigna segons la seva prioritat. Pot ser no *preemptivo (el procés actual manté la CPU fins que completa el seu temps) o *preemptivo (un procés de major prioritat pot interrompre a un en execució).
+
+### Multinivell i Multinivell Retroalimentada
+
+Aquests esquemes combinen diversos algorismes de planificació en diferents nivells de prioritat. Els processos es mouen entre nivells segons el seu comportament, permetent una gestió més dinàmica i eficient.
