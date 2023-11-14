@@ -13,3 +13,5 @@ En aquesta anàlisi, hem confirmat que els processos no són simplement execucio
 A mesura que avancem en l'era de la computació, la importància de comprendre i perfeccionar la gestió de processos no disminuirà. Nous paradigmes, com la computació en el núvol i la intel·ligència artificial, presenten desafiaments únics que requereixen una sòlida comprensió d'aquests conceptes fonamentals. En abraçar aquest coneixement, els professionals de la informàtica estan equipats per a enfrontar els desafiaments emergents i contribuir al continu avanç de la ciència informàtica.
 
 En resum, aquest viatge a través dels processos ens ha portat des dels fonaments fins a les complexitats, des de la creació fins a la terminació, des de la comunicació fins a la planificació. Que aquest coneixement serveixi com a far en la teva travessia pel vast i sempre emocionant món de la informàtica moderna. Avanci cap a nous horitzons i descobriments informàtics!
+
+[00_INDEX](00_INDEX.md)

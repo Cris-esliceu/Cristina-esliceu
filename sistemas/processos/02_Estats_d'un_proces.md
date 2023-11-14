@@ -18,3 +18,5 @@ La vida d'un procés es caracteritza per la seva transició entre diversos estat
 2. **Estat Preparat (`READY`):** Quan un procés ha completat la seva execució i encara té temps d'CPU per utilitzar, passa a l'estat preparat. Aquí, espera a la cua de processos preparats per ser seleccionat pel planificador de processos i tornar a l'estat d'execució.
 
 3. **Estat Bloquejat (`WAIT`):** Si un procés realitza una operació d'entrada/sortida o experimenta un esdeveniment que requereix una espera temporal, entra a l'estat bloquejat. Aquí, el procés romandrà fins que es compleixi l'esdeveniment esperat, moment en què tornarà a l'estat preparat.
+
+[00_INDEX](00_INDEX.md)
