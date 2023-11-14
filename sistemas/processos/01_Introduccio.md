@@ -10,4 +10,4 @@ Al llarg d'aquest treball, ens submergirem en el fascinant món dels processos i
 
 Benvingut a un viatge cap al cor de l'execució computacional!
 
-[00_INDEX](00_INDEX.md)
+[README](README.md)

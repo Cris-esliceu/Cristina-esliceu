@@ -14,4 +14,4 @@ A mesura que avancem en l'era de la computació, la importància de comprendre i
 
 En resum, aquest viatge a través dels processos ens ha portat des dels fonaments fins a les complexitats, des de la creació fins a la terminació, des de la comunicació fins a la planificació. Que aquest coneixement serveixi com a far en la teva travessia pel vast i sempre emocionant món de la informàtica moderna. Avanci cap a nous horitzons i descobriments informàtics!
 
-[00_INDEX](00_INDEX.md)
+[README](README.md)

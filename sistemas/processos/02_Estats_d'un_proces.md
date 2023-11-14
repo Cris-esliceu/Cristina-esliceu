@@ -19,4 +19,4 @@ La vida d'un procés es caracteritza per la seva transició entre diversos estat
 
 3. **Estat Bloquejat (`WAIT`):** Si un procés realitza una operació d'entrada/sortida o experimenta un esdeveniment que requereix una espera temporal, entra a l'estat bloquejat. Aquí, el procés romandrà fins que es compleixi l'esdeveniment esperat, moment en què tornarà a l'estat preparat.
 
-[00_INDEX](00_INDEX.md)
+[README](README.md)

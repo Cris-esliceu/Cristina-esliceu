@@ -14,12 +14,31 @@ Quan tenim més d’un procés en marxa, el SO ha de planificar quin procés s�
 
 ### Algoritmes de Planificació
 - **FIFO (First-In-First-Out):** El primer que entra, el primer que surt.
+
+IMATGE FIFO: 
+
+!["FIFO"](FIFO.png)
+
 - **Round Robin:** Es reparteix el temps entre els processos que esperen, amb un temps màxim d'execució per a cada un.
+
+IMATGE ROUND ROBIN:
+
+!["ROUND ROBIN"](ROUND%20ROBIN.png)
+
 - **SJF (Shortest Job First):** S'executen primer els processos més curts.
+
+IMATGE SJF:
+
+!["SJF"](SJF.png)
+
 - **SRT (Shortest Remaining Time):** S'executen primer els processos amb el temps restant més curt.
 - **Prioritats:** S'executen els processos amb la prioritat més alta.
+
+IMATGE SRT:
+
+!["SRT"](SRT.png)
 
 Aquesta planificació és crucial per assegurar-se que els recursos del sistema s'utilitzen eficientment i que els processos s'executen de manera justa i ràpida.
 
 
-[00_INDEX](00_INDEX.md)
+[README](README.md)

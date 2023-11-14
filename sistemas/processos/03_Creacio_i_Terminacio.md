@@ -18,4 +18,4 @@ En conjunt, la creació i terminació de processos són processos dinàmics i es
 
 Al llarg d'aquest treball, explorarem més a fons aquests processos, analitzant les seves implicacions en l'estructura i el rendiment dels sistemes operatius moderns.
 
-[00_INDEX](00_INDEX.md)
+[README](README.md)

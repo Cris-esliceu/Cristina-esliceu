@@ -24,4 +24,4 @@ Els sockets permeten la comunicació entre processos en diferents sistemes o fin
 
 L'elecció del mecanisme de comunicació entre processos depèn de la naturalesa de la tasca i els requisits específics de l'aplicació. La comprensió d'aquests mecanismes és essencial per al disseny de sistemes robustos i eficients.
 
-[00_INDEX](00_INDEX.md)
+[README](README.md)
