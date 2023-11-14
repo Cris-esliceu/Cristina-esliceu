@@ -23,3 +23,5 @@ Els senyals són esdeveniments asincrònics que un procés pot enviar a un altre
 Els sockets permeten la comunicació entre processos en diferents sistemes o fins i tot a través d'una xarxa. Proporcionen una interfície estàndard per a la comunicació, la qual cosa facilita la interacció entre processos en màquines separades.
 
 L'elecció del mecanisme de comunicació entre processos depèn de la naturalesa de la tasca i els requisits específics de l'aplicació. La comprensió d'aquests mecanismes és essencial per al disseny de sistemes robustos i eficients.
+
+[00_INDEX](00_INDEX.md)

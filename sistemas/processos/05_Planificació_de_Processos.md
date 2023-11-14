@@ -1,7 +1,8 @@
-Quan tenim més d’un procés en marxa, el SO ha de planificar quin procés s’executa en cada moment.
 
 ### Planificador 
 El **planificador** és la part del sistema operatiu responsable de decidir quin procés s'executa en cada instant.
+
+Quan tenim més d’un procés en marxa, el SO ha de planificar quin procés s’executa en cada moment.
 
 ### Temps importants en la planificació de processos
 1. **Temps de resposta:** Quan triga el SO en donar-me servei.
@@ -19,3 +20,6 @@ El **planificador** és la part del sistema operatiu responsable de decidir quin
 - **Prioritats:** S'executen els processos amb la prioritat més alta.
 
 Aquesta planificació és crucial per assegurar-se que els recursos del sistema s'utilitzen eficientment i que els processos s'executen de manera justa i ràpida.
+
+
+[00_INDEX](00_INDEX.md)

@@ -17,3 +17,5 @@ El sistema operatiu és responsable d'alliberar els recursos assignats a un proc
 En conjunt, la creació i terminació de processos són processos dinàmics i essencials en l'administració eficient dels recursos del sistema, permetent l'execució concurrent i la gestió adequada de la càrrega de treball.
 
 Al llarg d'aquest treball, explorarem més a fons aquests processos, analitzant les seves implicacions en l'estructura i el rendiment dels sistemes operatius moderns.
+
+[00_INDEX](00_INDEX.md)

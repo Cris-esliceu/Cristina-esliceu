@@ -9,3 +9,5 @@ La capacitat de gestionar múltiples processos simultàniament és un pilar fona
 Al llarg d'aquest treball, ens submergirem en el fascinant món dels processos informàtics, explorant les seves facetes i comprenent el seu paper vital en el teixit mateix de la informàtica moderna.
 
 Benvingut a un viatge cap al cor de l'execució computacional!
+
+[00_INDEX](00_INDEX.md)
